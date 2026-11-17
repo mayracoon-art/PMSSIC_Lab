@@ -11,6 +11,11 @@
 <font size="3"> - 歡迎對類比IC設計、電源IC設計和半導體與有熱忱的同學加入 </font> <br>
 <font size="3"> - 也歡迎主動聯繫我們了解更多研究方向與招生資訊 </font> <br>
 
+Projects <br>
+============
+
+<font size="3"> [115/10/01 ~ 117/09/30] 應用於無人機智慧充電樁之電源管理晶片設計 NSTC 115-2222-E-018-002-MY2 </font> <br>
+
 Personal Information <br>
 ============
 <table>
