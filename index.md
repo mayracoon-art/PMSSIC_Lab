@@ -25,7 +25,7 @@ Personal Information <br>
     </td>
     <td width="70%">
         <h3><font size="4">  孫 宗 彣 (Tsung-Wen Sun) </font> <br></h3>
-        <p><font size="3">E-Mail: mayracoon022@gmail.com </font></p>
+        <p><font size="3">E-Mail: twsun022@cc.ncue.edu.tw </font></p>
         <p><font size="3">TEL: 04-7232105 Ext. 8397 </font></p>
         <p><font size="3">Address: 工學院4樓 E434 </font></p>
     </td>
